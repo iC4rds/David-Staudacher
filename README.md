@@ -8,7 +8,12 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 ### Bewegende Zitate
 
 ```markdown
-
+"We all go a little mad sometimes"
+- Norman Bates
+"Beat my meat like a fucking butcher, pump the pussy like i am Ashton Kutcher"
+- Hollywood Undead
+"Fuck you Nvidea"
+- Linus Torvalds
 ```
 
 ### Support or Contact
