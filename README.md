@@ -2,12 +2,7 @@
 
 Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Software enthusiast | Cola Gläser Sammler
 
-### Steckbrief
 
-- Aus Berg
-- 10. Klasse
-- Pop_OS
-- [Links](ic4rds.github.io)
 
 
 ### Bewegende Zitate
