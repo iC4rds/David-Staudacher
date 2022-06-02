@@ -1,13 +1,13 @@
 ## David Staudacher
 
-Schüler | Drummer | Film Kritiker | Hobby Coder | non-proprietary Software enthusiast
+Schüler | Drummer | Film Kritiker | Hobby Coder | non-proprietary Software enthusiast | Cola Gläser Sammler
 
 ### Steckbrief
 
 ```markdown
 - Aus Berg
-- nicht viel
 - 10. Klasse
+- Pop_OS
 - [Links](ic4rds.github.io)
 ```
 
