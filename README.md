@@ -25,4 +25,4 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 
 Bitte wenns geht diese Seite vorerst nicht ernst nehmen
 
-[Weitere Links von mir](ic4rds.github.io)
+[Weitere Links von mir](https://ic4rds.github.io)
