@@ -7,12 +7,14 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 - Aus Berg
 - 10. Klasse
 - Pop_OS
-- ic4rds.github.io
+- [Links](ic4rds.github.io)
 
 
-### Jekyll Themes
+### Bewegende Zitate
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iC4rds/David-Staudacher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+'''markdown
+
+'''
 
 ### Support or Contact
 
