@@ -4,10 +4,11 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 
 ### Steckbrief
 
-```markdown
 - Aus Berg
 - 10. Klasse
-```
+- Pop_OS
+- ic4rds.github.io
+
 
 ### Jekyll Themes
 
