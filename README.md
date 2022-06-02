@@ -8,7 +8,7 @@ Schüler | Drummer | Film Kritiker | Hobby Coder | non-proprietary Software enth
 - Aus Berg
 - 10. Klasse
 - Pop_OS
-- [Links](ic4rds.github.io)
+- ic4rds.github.io
 ```
 
 ### Jekyll Themes
