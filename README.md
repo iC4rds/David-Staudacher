@@ -8,15 +8,17 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 ```markdown
 "We all go a little mad sometimes"
 - Norman Bates
+
 "Beat my meat like a fucking butcher, pump the pussy like i am Ashton Kutcher"
 - Hollywood Undead
+
 "Fuck you Nvidea"
 - Linus Torvalds
 ```
 
 ### Erfahrungen
 
-- Gymnasium mit Profilfach Informatik, Mathe und Physik
+- Gymnasium mit Profilfach IMP (Informatik, Mathe und Physik)
 - Python Workshop bei Rolls Roice Powersystems
 - Praktikum bei SAP
 - Praktikum bei Airbus
