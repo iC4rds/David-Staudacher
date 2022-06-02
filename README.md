@@ -14,6 +14,13 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 - Linus Torvalds
 ```
 
+### Erfahrungen
+
+- Gymnasium mit Profilfach Informatik, Mathe und Physik
+- Python Workshop bei Rolls Roice Powersystems
+- Praktikum bei SAP
+- Praktikum bei Airbus
+
 ### Support or Contact
 
 Bitte wenns geht diese Seite vorerst nicht ernst nehmen
