@@ -3,8 +3,6 @@
 Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Software enthusiast | Cola Gläser Sammler
 
 
-
-
 ### Bewegende Zitate
 
 ```markdown
@@ -18,4 +16,5 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bitte wenns geht diese Seite vorerst nicht ernst nehmen
+[Weitere Links von mir](ic4rds.github.io)
