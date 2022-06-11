@@ -16,6 +16,19 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 - Linus Torvalds
 ```
 
+### Top 10 Best Metal Songs
+
+10. Stabbin in the Dark - Ice Nine Kills
+9. Evil Dead - Death
+8. Halloween - Helloween
+7. Funeral Fog - Mayhem
+6. 2 Minutes to Midnight - Iron Maiden
+5. Pull me Under - Dream Theater
+4. Paranoid - Black Sabbath
+3. Bleed - Meshuggah
+2. Raining Blood - Slayer
+1. Domination - Pantera
+
 ### Erfahrungen
 
 - Gymnasium mit Profilfach IMP (Informatik, Mathe und Physik)
