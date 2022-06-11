@@ -27,7 +27,7 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 7. Funeral Fog - Mayhem 
 8. Halloween - Helloween 
 9. Evil Dead - Death 
-10. Stabbin in the Dark - Ice Nine Kills 
+10. Stabbing in the Dark - Ice Nine Kills 
 
 ### Erfahrungen
 
