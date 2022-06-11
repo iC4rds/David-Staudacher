@@ -18,16 +18,16 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 
 ### Top 10 Best Metal Songs
 
-1.Domination - Pantera
-2. Raining Blood - Slayer
-3. Bleed - Meshuggah
-4. Paranoid - Black Sabbath
-5. Pull me Under - Dream Theater
-6. 2 Minutes to Midnight
-7. Funeral Fog - Mayhem
-8. Halloween - Helloween
-9. Evil Dead - Death
-10. Stabbin in the Dark - Ice Nine Kills
+1. Domination - Pantera 
+2. Raining Blood - Slayer 
+3. Bleed - Meshuggah 
+4. Paranoid - Black Sabbath 
+5. Pull me Under - Dream Theater 
+6. 2 Minutes to Midnight 
+7. Funeral Fog - Mayhem 
+8. Halloween - Helloween 
+9. Evil Dead - Death 
+10. Stabbin in the Dark - Ice Nine Kills 
 
 ### Erfahrungen
 
