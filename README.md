@@ -23,7 +23,7 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 3. Bleed - Meshuggah 
 4. Paranoid - Black Sabbath 
 5. Pull me Under - Dream Theater 
-6. 2 Minutes to Midnight 
+6. 2 Minutes to Midnight - Iron Maiden
 7. Funeral Fog - Mayhem 
 8. Halloween - Helloween 
 9. Evil Dead - Death 
