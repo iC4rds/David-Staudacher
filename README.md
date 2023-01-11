@@ -1,6 +1,6 @@
 ## David Staudacher
 
-Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Software enthusiast | Cola Gläser Sammler
+Schüler | Drummer | Blauer Trommler des Fanfarenzug Rauenspurg | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Software enthusiast | Cola Gläser Sammler
 
 
 ### Bewegende Zitate
@@ -21,7 +21,7 @@ Schüler | Drummer | Film Kritiker | Kegler |  Hobby Coder | non-proprietary Sof
 1. Domination - Pantera 
 2. Raining Blood - Slayer 
 3. Bleed - Meshuggah 
-4. Paranoid - Black Sabbath 
+4. Black Sabbath - Black Sabbath 
 5. Pull me Under - Dream Theater 
 6. 2 Minutes to Midnight - Iron Maiden
 7. Funeral Fog - Mayhem 
